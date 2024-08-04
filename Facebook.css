@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+    padding: 40px;
+    margin: 0px;
+    }
+
+img {
+    width: 240px;
+}
+
+p {
+    color: rgb(28, 30, 33);
+    font-size: 20px;
+    line-height: 22px;
+    width: 394px;
+    text-align: center;
+    line-height: 22px;
+    
+}
+
+div {
+    border: 1px solid white;
+    border-radius: 10px;
+    border-style: solid;
+    box-shadow: 1px 1px 3px 3px rgb(223, 221, 221);
+    width: 400px;
+    line-height: 0.80;
+    height: 305;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+
+.form {
+    border: 1px solid rgb(214, 212, 212);
+    border-radius: 3px;
+    padding: 14px 16px;
+    cursor: pointer;
+    width: 370px;
+    font-size: 17px;
+} 
+
+button{
+    border: 1px solid rgb(17, 104, 216);
+    border-radius: 5px;
+    padding:12px 16px;
+    color: white;
+    background-color: rgb(8, 105, 252);
+    cursor: pointer;
+    width: 370px;
+    font-size: 20px;
+}
+
+button:hover {
+    background-color: rgb(17, 104, 216);
+    color: white;
+}
+
+h5 {
+    color: rgb(8, 105, 252);
+    cursor: pointer;
+}
+
+a{
+    color: rgb(17, 104, 216) ;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+}
